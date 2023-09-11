@@ -28,8 +28,8 @@
 
 body {
   font-family: "UbuntuMono", sans-serif;
-  background: #1e1e2e;
-  color: #cdd6f4;
+  background: #222222;
+  color: #f2f2f2;
 }
 
 .container {
@@ -70,19 +70,19 @@ li {
 
 a:link {
   text-decoration: none;
-  color: #89b4fa;
+  color: #999999;
 }
 
 a:visited {
-  color: #b4befe;
+  color: #999999;
 }
 
 a:hover {
-  color: #89dceb;
+  color: #BBBBBB;
 }
 
 .category {
-  background-color: #45475a;
+  background-color: #333333;
   padding: 20px;
   border: #191c1e;
   border-radius: 5px;
